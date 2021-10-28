@@ -2,7 +2,7 @@
 <span id="a">email@fewhold.xyz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->MyProfile.txt<br/><br/>
 My favorite quote, "<span id="k">Live as if you were to die tomorrow. Learn as if you were to live forever.</span>". <!-- sjkfhskjf -->
 
-Hey ! This is the portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+Hey ! This is the portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Holla, let me introduce myself, my name is Robby Febrianur Saleh. I graduated from Mulawarman University majoring in Informatic engineering.  .</p>
 <p>I have less than a year of experience as a junior software engineer with RSUD Putri Aji Botung. In my short time there, I've already contributed to online attendance projects,IT support,  managing administration and networking.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
