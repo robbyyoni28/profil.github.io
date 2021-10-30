@@ -4,7 +4,7 @@ My favorite quote, "<span id="k">Live as if you were to die tomorrow. Learn as i
 
 Hey ! This is the portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Holla, let me introduce myself, my name is Robby Febrianur Saleh. I graduated from Mulawarman University majoring in Informatic engineering.</p>
 <p>I have less than a year of experience as a junior software engineer with RSUD Putri Aji Botung. In my short time there, I've already contributed to online attendance projects,IT support,  managing administration and networking.You can see my professional portfolio here<a href="https://github.com/robbyyoni28"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<br>Give your project links or something like that. <a href=""> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<br><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 You can contacting me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@fewhold.xyz">Email@fewhold.xyz</a>.
